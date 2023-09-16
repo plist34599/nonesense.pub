@@ -33,13 +33,14 @@
 **Nonesense.pub | INJECTOR | 16.09.2023** 
 *******************************************************
 
-- Added compatibility for CS:GO (no one asked)
-- Added Discord RPC + Animations (Discord Rich Presence for injector)
+- **Added Discord RPC + Animations (Discord Rich Presence for injector)**
+- **Added compatibility for CS:GO (lalamex asked)**
  Find it in options > CS:GO Injection
- Added compatibility for GTA5 (no one asked)
- Find it in options > GTA5 Injection
-- Added credit (meme)
-- Removed Windows XP Pro from credits cause it crashed
+- **Added compatibility for GTA5 (no one asked)**
+  *Find it in options > GTA5 Injection*
+- Reworked UI with like 9 different gif at start now size is like 60Mb but there is hella memes
+- Added credits 
+- Removed Windows XP Pro from credits cause it bsod
 - Added stuff
 - Improved UI
 - Improved stuff
