@@ -13,12 +13,12 @@
  Find it in options > CS:GO Injection
 - **Added compatibility for GTA5 (no one asked)**
   *Find it in options > GTA5 Injection*
-- Reworked UI with like 9 different gif at start now size is like 60Mb but there is hella memes (Cycle)
+- **Reworked UI** with like *9 gifs*, **now size is like 60Mb** but there is hella memes.
 - Added credits 
 - Removed Windows XP Pro from credits cause it bsod
-- Added stuff
+- done stuff
 - Improved UI
-- Improved stuff
+- Improved stuff, did things
 ‎ 　　　
 ‎ ‎ 　　
 ‎ 　‎ 　
