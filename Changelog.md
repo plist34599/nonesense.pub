@@ -6,7 +6,13 @@ Nonesense.pub | TF2 INTERNAL - 16.09.2023
 - Minor improvements
 - still not fixed walkbot D:
 
+
+
+
 *******************************************************
+
+
+
 
 Nonesense.pub | INJECTOR | 16.09.2023
 
@@ -17,7 +23,13 @@ Nonesense.pub | INJECTOR | 16.09.2023
 - Improved UI
 - Improved stuff
 
+
+
+
 *******************************************************
+
+
+
 
 Nonesense.pub | TF2 INTERNAL - 15.09.2023
 
@@ -26,6 +38,12 @@ Nonesense.pub | TF2 INTERNAL - 15.09.2023
 - Reduced size
 - Fixed UI
 - Improved overall stability & code
+
+
+
+
+
+*******************************************************
 
 
 
