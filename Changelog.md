@@ -17,7 +17,7 @@
 - Deleted unrelevant cheat var
 - Fixed other stuff
 - More minor improvements
-- *still not fixed walkbot D:*
+- Kinda fixed walkbot
 　
 　　
 ‎ 　　
@@ -33,8 +33,11 @@
 *******************************************************
 
 - Added compatibility for CS:GO (no one asked)
- Find it in options > CS:GO Support
+ Find it in options > CS:GO Injection
+ Added compatibility for GTA5 (no one asked)
+ Find it in options > GTA5 Injection
 - Added credit (meme)
+- Removed Windows XP Pro from credits cause it crashed
 - Added stuff
 - Improved UI
 - Improved stuff
