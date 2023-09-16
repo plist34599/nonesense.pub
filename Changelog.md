@@ -29,10 +29,11 @@
 ‎ ‎ 　　
 ‎ 　‎ 　
 ‎ 　　
-**Nonesense.pub | INJECTOR | 16.09.2023**
+**Nonesense.pub | INJECTOR | 16.09.2023** 
 *******************************************************
 
 - Added compatibility for CS:GO (no one asked)
+- Added Discord RPC + Animations (Discord Rich Presence for injector)
  Find it in options > CS:GO Injection
  Added compatibility for GTA5 (no one asked)
  Find it in options > GTA5 Injection
