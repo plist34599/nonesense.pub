@@ -18,6 +18,7 @@
 - Fixed other stuff
 - More minor improvements
 - Kinda fixed walkbot
+- Still dogshit at HvH (trying to implement fake flick) & resolver sucks 
 　
 　　
 ‎ 　　
