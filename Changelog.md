@@ -9,9 +9,10 @@
 *******************************************************
 　
 - Reworked tabs
+- Deleted SteamRPC outdated functions,var, etc...
 - Deleted unrelevant cheat var
 - Fixed other stuff
-- Minor improvements
+- More minor improvements
 - *still not fixed walkbot D:*
 　
 　　
