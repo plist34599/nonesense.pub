@@ -9,6 +9,7 @@
 *******************************************************
 　
 - Reworked tabs
+- *:Misc::AutoAcceptItemDrops* is now set to *true* by default.
 - Removed RageRetry Feature due to cringe. (who tf use that??)
 - Deleted SteamRPC outdated functions,var, etc...
 - Deleted unrelevant cheat var
