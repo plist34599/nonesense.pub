@@ -5,15 +5,15 @@ Nonesense.pub | TF2 INTERNAL - 16.09.2023
 - Fixed other stuff
 - Minor improvements
 - still not fixed walkbot D:
-
-
-
-
+‎ 
+‎ 
+‎ 
+‎ 
 *******************************************************
-
-
-
-
+‎ 
+‎ ‎ 
+‎ ‎ 
+‎ 
 Nonesense.pub | INJECTOR | 16.09.2023
 
 - Added compatibility for CS:GO (no one asked)
@@ -27,10 +27,10 @@ Nonesense.pub | INJECTOR | 16.09.2023
 
 
 *******************************************************
-
-
-
-
+‎ 
+‎ 
+‎ 
+‎ 
 Nonesense.pub | TF2 INTERNAL - 15.09.2023
 
 - Fixed triggerbot crashes
@@ -38,14 +38,15 @@ Nonesense.pub | TF2 INTERNAL - 15.09.2023
 - Reduced size
 - Fixed UI
 - Improved overall stability & code
-
-
-
-
-
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 *******************************************************
-
-
-
-
+‎ 
+‎ 
+‎ ‎ 
+‎ 
 + Created changelog lmao
+‎ 
