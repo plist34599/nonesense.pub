@@ -9,6 +9,7 @@
 *******************************************************
 　
 - Reworked tabs
+- Removed RageRetry Feature due to cringe. (who tf use that??)
 - Deleted SteamRPC outdated functions,var, etc...
 - Deleted unrelevant cheat var
 - Fixed other stuff
