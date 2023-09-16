@@ -1,3 +1,7 @@
+‎ 　　　
+‎ ‎ 　　
+‎ 　‎ 　
+‎ 　　
 **Nonesense.pub | TF2 INTERNAL - 16.09.2023**
 　
 - Reworked tabs
@@ -14,7 +18,7 @@
 ‎ ‎ 　　
 ‎ 　‎ 　
 ‎ 　　
-Nonesense.pub | INJECTOR | 16.09.2023
+**Nonesense.pub | INJECTOR | 16.09.2023**
 
 - Added compatibility for CS:GO (no one asked)
  Find it in options > CS:GO Support
@@ -31,7 +35,7 @@ Nonesense.pub | INJECTOR | 16.09.2023
 ‎ ‎ 　　
 ‎ 　‎ 　
 ‎ 　　
-Nonesense.pub | TF2 INTERNAL - 15.09.2023
+**Nonesense.pub | TF2 INTERNAL - 15.09.2023**
 
 - Fixed triggerbot crashes
 - Fixed RPC crash
