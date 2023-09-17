@@ -1,6 +1,6 @@
-![ezgif com-resize (1)](https://github.com/plist34599/nonesense.pub/assets/116228760/0f715181-8325-4946-ab75-266776a80130)
-
+![ezgif com-resize (2)](https://github.com/plist34599/nonesense.pub/assets/116228760/6b90f636-bf6e-4c47-9ad5-0a9028956c63)
 # Planned fixes
+
 
 
 | Feature | Status | Text |
