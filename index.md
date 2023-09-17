@@ -25,3 +25,4 @@
 > [!note]
 > # [Shared](shared/)
 # [Changelog](shared/Changelog.md)
+# [Contact](shared/contact.md)
