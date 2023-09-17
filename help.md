@@ -18,4 +18,4 @@
    - Don't use debuggers.
    - Check the game executable's name (it should remain the default).
    - Check for OS updates.
-   - **Use your brain**.
+   - **Use your brain ♥**.
