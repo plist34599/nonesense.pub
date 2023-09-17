@@ -1,7 +1,7 @@
 # Anti Cheat & Game support
 ㅤㅤ ㅤ
 > [!IMPORTANT]
-> ❌ == risky af, 99.9% chances of detectionㅤㅤ ㅤ ㅤ ㅤ ㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤ ㅤㅤ ㅤ
+> ㅤㅤ ㅤ❌ == risky af, 99.9% chances of detectionㅤㅤ ㅤ ㅤ ㅤ ㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤ ㅤㅤ ㅤ
 > ✅ == All goodㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤ ㅤㅤㅤ ㅤㅤㅤㅤ ㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤㅤㅤㅤ ㅤㅤ ㅤ
 > ⚠️ == Use at your own risks
 
