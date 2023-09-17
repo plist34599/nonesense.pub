@@ -1,7 +1,5 @@
-# Injector
-
-
 > [!note]
+> # Injector
 > # [Help](injector/help.md)
 >
 > # [Features & Infos](injector/info.md)
