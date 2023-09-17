@@ -1,9 +1,5 @@
 # Planned fixes
-
-ㅤ
-
 ㅤㅤ ㅤ
-
 | Feature | Status | Text |
 |----------|----------|----------|
 | Resolver | ⚠️ | Need serious fix, dumping same phase a lot | 
