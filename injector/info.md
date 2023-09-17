@@ -45,7 +45,7 @@
 
 # Detections (By Virus Total) 
 ㅤㅤ ㅤ
-| Status | Provider | Text |
+|  | Provider | Text |
 |----------|----------|----------|
 | **❌** | DeepInstinct | MALICIOUS | 
 | **❌** | ESET-NOD32 | A Variant Of MSIL/DllInject_AGen.JH Potentially Unsafe |
