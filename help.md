@@ -2,7 +2,7 @@
 
 1. Download the latest version.
    > [!note]
-   > Request @2659
+   > *Request @2659*
 3. Run the .exe 
    - For VAC Games:
      - Start VAC ByPass.
