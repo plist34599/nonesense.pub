@@ -1,4 +1,5 @@
-![68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966](https://github.com/plist34599/nonesense.pub/assets/116228760/343d9d7c-2e79-4885-b140-9db014b54caf)
+![ezgif com-resize (1)](https://github.com/plist34599/nonesense.pub/assets/116228760/0f715181-8325-4946-ab75-266776a80130)
+
 # Planned fixes
 
 
