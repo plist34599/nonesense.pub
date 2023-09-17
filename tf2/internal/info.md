@@ -8,6 +8,8 @@
 | Followbot | ⚠️ | Needs a good overall |
 | Other useless features | ⚠️ | Source still needs a good clean |
 | ESP | ⚠️ | Some esp features like sightlines & projectile lines don't clear when player is out of render |
+
+
  
 ㅤㅤ ㅤ
 > Report any other issue directly to @2659
