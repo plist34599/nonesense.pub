@@ -1,9 +1,14 @@
 # Anti Cheat & Game support
 ㅤㅤ ㅤ
+> [!IMPORTANT]
+> ❌ == risky af, 99.9% chances of detection
+> ✅ == All goodㅤㅤ ㅤ
+> ⚠️ == Use at your own risks
+
 | Game / AC | Status | Text |
 |----------|----------|----------|
 | EAC protected games | ❌ | Not implemented yet, idk when |
-| FiveM (beta) | **✅** | Passing, need further testing |
+| FiveM (beta) | **⚠️** | Passing, need further testing |
 | RAC for GTA5 | **✅** | Passing |
 | Ricochet AC | ❌ | Maybe someday |
 | VAC for CS:GO | **✅** | Passing |
@@ -36,15 +41,20 @@
 | Dump Process [Memory, Modules,...] | ⚠️ | Working on it, soon mb
 | Discord-RPC | ✅ | Good |
 
-ㅤㅤ ㅤ
-> Features that I want to implement to loader
+> [!NOTE]ㅤ ㅤ
+> ⚠️ == Features that I want to implement to loader 
 
 ㅤㅤ ㅤ
 
 
 
 # Detections (By Virus Total) 
+
 ㅤㅤ ㅤ
+> [!IMPORTANT]
+> ❌== detected
+ㅤㅤ ㅤ
+
 |  | Provider | Text |
 |----------|----------|----------|
 | **❌** | DeepInstinct | MALICIOUS | 
