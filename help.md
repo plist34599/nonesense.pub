@@ -1,7 +1,7 @@
 # How to use
 
 1. Download the latest version.
-   > [!info]
+   > [!note]
    > Request @2659
 3. Run the .exe 
    - For VAC Games:
