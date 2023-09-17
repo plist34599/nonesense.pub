@@ -30,9 +30,9 @@
 
 - Fixed triggerbot crashes
 - Fixed RPC crash due to outdated 'Timestamp' RPC settings
-- Reduced size from 9Mb to 1.9Mb
-- Fixed UI
-- Improved overall stability & code
+- Reduced size from *9MB* to *1.9MB*.
+- Fixed UI.
+- Improved overall stability & code.
 ‎ 　　　
 ‎ ‎ 　　
 ‎ 　‎ 　
