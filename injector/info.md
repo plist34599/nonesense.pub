@@ -2,7 +2,7 @@
 ㅤㅤ ㅤ
 > [!IMPORTANT]
 > ❌ == risky af, 99.9% chances of detection
-> ✅ == All good           ㅤ|ㅤ ㅤ
+> ✅ == All good ㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤ  ㅤㅤ ㅤㅤㅤㅤ ㅤㅤ ㅤ
 > ⚠️ == Use at your own risks
 
 | Game / AC | Status | Text |
