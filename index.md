@@ -11,15 +11,15 @@
 
 
 **************
-
-# Internal(s)
+> [!note]
+> # Internal(s)
 
 
 
 
 
 **************
-
-# Shared
+> [!note]
+> # [Shared](shared/)
 
 # [Changelog](shared/Changelog.md)
