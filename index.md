@@ -11,7 +11,7 @@
 **************
 > [!note]
 > - # [Internal(s)](internal/)
->   - # [TF:2]
+>   - # [TF:2](internal/tf2/)
 >     - # Help
 >     - # Info
 >     - # Wiki
