@@ -3,13 +3,13 @@
 **1. Download the latest version.**
    > [!note]
    > *Request @2659*
-**2. Run the .exe 
-   - For VAC Games:
+**2. Run the .exe** 
+   - **For VAC Games:**
      - Start VAC ByPass.
      - Wait for the Steam window to say "success" & VAC Status ByPass [ON].
      - Then start your game.
 
-   - For non-VAC Games:
+   - **For non-VAC Games:**
      - Same steps, but no VAC ByPass.
 
 **3. If you experience any errors, try the following:**
