@@ -1,8 +1,13 @@
 # Planned fixes
+     
+ㅤㅤ 
+ㅤㅤ ㅤ
 
+ㅤ
 
+ㅤㅤ ㅤ
 
-| Feature | Status | Text |
+ㅤ| Feature | Status | Text |
 |----------|----------|----------|
 | Resolver | ⚠️ | Need serious fix, dumping same phase a lot | 
 | AntiAim | ⚠️ | Some issue defining LocalRealAngle pitch & overall not good |
