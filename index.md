@@ -1,10 +1,8 @@
 > [!note]
-> # [Injector](injector/) 
-> # [Help](injector/help.md)
->
-> # [Features & Infos](injector/info.md)
->
-> # [Changelog](injector/changelog.md) 
+> - # [Injector](injector/) 
+>   - # [Help](injector/help.md)
+>   - # [Features & Infos](injector/info.md)
+>   - # [Changelog](injector/changelog.md) 
 
 
 
