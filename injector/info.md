@@ -41,7 +41,7 @@
 | Dump Process [Memory, Modules,...] | ⚠️ | Working on it, soon mb
 | Discord-RPC | ✅ | Good |
 
-> [!NOTE]ㅤ ㅤ
+> [!note]
 > ⚠️ == Features that I want to implement to loader 
 
 ㅤㅤ ㅤ
