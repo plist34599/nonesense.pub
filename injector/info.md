@@ -51,7 +51,7 @@
 # Detections (By Virus Total) 
 
 ㅤㅤ ㅤ
-> [!IMPORTANT]
+> [!warning]
 > ❌== detected
 ㅤㅤ ㅤ
 
