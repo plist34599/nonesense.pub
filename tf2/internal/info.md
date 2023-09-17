@@ -1,6 +1,6 @@
-![l_-1](https://github.com/plist34599/nonesense.pub/assets/116228760/679f4856-d3e2-4a8e-8fd8-e83b35ece163)
-
+![68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966](https://github.com/plist34599/nonesense.pub/assets/116228760/343d9d7c-2e79-4885-b140-9db014b54caf)
 # Planned fixes
+
 
 | Feature | Status | Text |
 |----------|----------|----------|
