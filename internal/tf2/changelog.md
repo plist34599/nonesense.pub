@@ -29,7 +29,7 @@
 *******************************************************
 
 - Fixed triggerbot crashes
-- Fixed RPC crash
+- Fixed RPC crash due to outdated 'Timestamp' RPC settings
 - Reduced size
 - Fixed UI
 - Improved overall stability & code
