@@ -5,6 +5,27 @@
 ‎ ‎ 　　
 ‎ 　‎ 　
 ‎ 　　
+**Nonesense.pub | INJECTOR | 17.09.2023** 
+*******************************************************
+
+- Reduced false Antivirus detection from **[23/69]** to **[7/69]** on virustotal, aiming for 0 (may bypass windows defend, untested yet)
+     https://www.virustotal.com/gui/file/37c69ccf984f10f661497434e48ccae0d38ae9bb15f4eff4abdf97fdca2bce7c/detection
+- Reworked RPC (More stuff added, lot of animation & custom stuff)
+- Improving UI & GIF implementations
+- Made overall smoother
+
+
+
+
+
+
+*******************************************************
+
+
+‎ 　　　
+‎ ‎ 　　
+‎ 　‎ 　
+‎ 　　
 **Nonesense.pub | INJECTOR | 16.09.2023** 
 *******************************************************
 
