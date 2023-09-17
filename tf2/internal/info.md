@@ -1,4 +1,3 @@
-![ezgif com-resize (2)](https://github.com/plist34599/nonesense.pub/assets/116228760/6b90f636-bf6e-4c47-9ad5-0a9028956c63)
 # Planned fixes
 
 
@@ -13,10 +12,13 @@
 | ESP | ⚠️ | Some esp features like sightlines & projectile lines don't clear when player is out of render |
  
 > Report any other issue directly to @2659
-  
-  
-  
-  
-  
-  
+     
+ㅤㅤ 
+ㅤㅤ ㅤ
+
+ㅤ
+
+ㅤㅤ ㅤ
+
+ㅤ
 ![ezgif com-resize (2)](https://github.com/plist34599/nonesense.pub/assets/116228760/6b90f636-bf6e-4c47-9ad5-0a9028956c63)
