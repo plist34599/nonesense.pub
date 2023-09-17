@@ -1,6 +1,6 @@
 # Detections (By Virus Total) 
 > Results from https://www.virustotal.com/gui/file/37c69ccf984f10f661497434e48ccae0d38ae9bb15f4eff4abdf97fdca2bce7c/detection
-
+  
 | Provider | Status | Text |
 |----------|----------|----------|
 | DeepInstinct | ❌ | MALICIOUS | 
