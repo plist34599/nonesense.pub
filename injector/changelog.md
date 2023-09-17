@@ -1,3 +1,10 @@
+*******************************************************
+
+
+‎ 　　　
+‎ ‎ 　　
+‎ 　‎ 　
+‎ 　　
 **Nonesense.pub | INJECTOR | 16.09.2023** 
 *******************************************************
 
@@ -9,11 +16,6 @@
 - **Reworked UI** with like *9 gifs*, **now size is like 60Mb** but there is hella memes.
 - Added credits 
 - Removed Windows XP Pro from credits cause it bsod
+- done stuff
 - Improved UI
-
-‎ 　　　
-‎ ‎ 　　
-‎ 　‎ 　
-‎ 　　
-
-
+- Improved stuff, did things
