@@ -47,12 +47,12 @@
 | Provider | Status | Text |
 |----------|----------|----------|
 | DeepInstinct | ❌ | MALICIOUS | 
-| Google | ❌ | Detected |
-| Microsoft | ❌ | Program:Win32/Wacapew.C!ml |
-| Trapmine | ❌ | Malicious.high.ml.score |
 | ESET-NOD32 | ❌ | A Variant Of MSIL/DllInject_AGen.JH Potentially Unsafe |
-| SecureAge | ❌ | Malicious |
+| Google | ❌ | Detected |
 | Ikarus | ❌ | Trojan.Dropper |
+| Microsoft | ❌ | Program:Win32/Wacapew.C!ml |
+| SecureAge | ❌ | Malicious |
+| Trapmine | ❌ | Malicious.high.ml.score |
 | Acronis (Static ML) | ✅ | Undetected |
 | AhnLab-V3 | ✅ | Undetected |
 | Alibaba | ✅ | Undetected |
