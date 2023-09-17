@@ -10,8 +10,8 @@
 
 **************
 > [!note]
-> - # Internal(s)
->   - # TF:2
+> - # [Internal(s)](internal/)
+>   - # [TF:2]
 >     - # Help
 >     - # Info
 >     - # Wiki
