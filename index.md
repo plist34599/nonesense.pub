@@ -12,13 +12,13 @@
 
 **************
 > [!note]
-> - Internal(s)
->   - TF:2
->     - Help
->     - Info
->     - Wiki
->     - LuaWiki
->     - Changelog
+> - # Internal(s)
+>   - # TF:2
+>     - # Help
+>     - # Info
+>     - # Wiki
+>     - # LuaWiki
+>     - # Changelog
 
 
 
