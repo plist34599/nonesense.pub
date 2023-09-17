@@ -2,14 +2,15 @@
 ㅤㅤ ㅤ
 | Game / AC | Status | Text |
 |----------|----------|----------|
-| VAC for TF:2 | **✅** | Passing | 
-| VAC for CS:GO | **✅** | Passing |
-| RAC for GTA5 | **✅** | Passing |
-| FiveM (beta) | **✅** | Passing, need further testing |
-| VAC for Garry's Mod | ❌ | Not implemented yet, soon |
 | EAC protected games | ❌ | Not implemented yet, idk when |
-| Vanguard | ❌ | Will never be added cause idc + its pointless |
-| Ricochet | ❌ | Maybe someday |
+| FiveM (beta) | **✅** | Passing, need further testing |
+| RAC for GTA5 | **✅** | Passing |
+| Ricochet AC | ❌ | Maybe someday |
+| VAC for CS:GO | **✅** | Passing |
+| VAC for Garry's Mod | ⚠️ | Not implemented yet, soon |
+| VAC for TF:2 | **✅** | Passing | 
+| Vanguard AC | ❌ | Will never be added cause idc + its pointless |
+
 
 ㅤㅤ ㅤ
  
@@ -28,11 +29,11 @@
 | Deepclean | ⚠️ | Not added |
 | HWID switch | ⚠️ | Not added |
 | HWID spoof | ⚠️ | Not added |
-| Auto dll spoof | ⚠️ | Not added |
-| Unloading | ⚠️ | Not added |
-| Console Logging | ⚠️ | Not added |
-| CLI Mode | ⚠️ | Not added |
-| Dump Process [Memory, Modules,...] | ⚠️ |Not added
+| Auto dll spoof | ⚠️ | Working on it, soon mb |
+| Unloading | ⚠️ | Working on it, soon mb |
+| Console Logging | ⚠️ | Working on it, soon mb |
+| CLI Mode | ⚠️ | Working on it, soon mb |
+| Dump Process [Memory, Modules,...] | ⚠️ | Working on it, soon mb
 | Discord-RPC | ✅ | Good |
 
 ㅤㅤ ㅤ
