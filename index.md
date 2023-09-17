@@ -12,8 +12,13 @@
 
 **************
 > [!note]
-> # Internal(s)
-
+> - Internal(s)
+>   - TF:2
+>     - Help
+>     - Info
+>     - Wiki
+>     - LuaWiki
+>     - Changelog
 
 
 
@@ -21,5 +26,4 @@
 **************
 > [!note]
 > # [Shared](shared/)
-
 # [Changelog](shared/Changelog.md)
