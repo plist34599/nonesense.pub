@@ -23,8 +23,8 @@
 
 **************
 > [!note]
-> - [Shared](shared/)
-> - [Changelog](shared/Changelog.md)
-> - [Contact](shared/contact.md)
+> - # [Shared](shared/)
+> - # [Changelog](shared/Changelog.md)
+> - # [Contact](shared/contact.md)
 
 
