@@ -1,5 +1,5 @@
 > [!note]
-> # Injector
+> # [Injector] (injector) 
 > # [Help](injector/help.md)
 >
 > # [Features & Infos](injector/info.md)
