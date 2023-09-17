@@ -12,11 +12,11 @@
 > [!note]
 > - # [Internal(s)](internal/)
 >   - # [TF:2](internal/tf2/)
->     - # Help(internal/tf2/help.md)
->     - # Info(internal/tf2/info.md)
->     - # Wiki(internal/tf2/wiki.md)
->     - # LuaWiki(internal/tf2/luawiki.md)
->     - # Changelog(internal/tf2/changelog.md)
+>     - # [Help](internal/tf2/help.md)
+>     - # [Info](internal/tf2/info.md)
+>     - # [Wiki](internal/tf2/wiki.md)
+>     - # [LuaWiki](internal/tf2/luawiki.md)
+>     - # [Changelog](internal/tf2/changelog.md)
 
 
 
