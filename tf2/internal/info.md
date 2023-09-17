@@ -7,7 +7,15 @@
 
 ㅤㅤ ㅤ
 
-ㅤ| Feature | Status | Text |
+     
+ㅤㅤ 
+ㅤㅤ ㅤ
+
+ㅤ
+
+ㅤㅤ ㅤ
+
+ㅤㅤ| Feature | Status | Text |
 |----------|----------|----------|
 | Resolver | ⚠️ | Need serious fix, dumping same phase a lot | 
 | AntiAim | ⚠️ | Some issue defining LocalRealAngle pitch & overall not good |
