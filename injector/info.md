@@ -1,6 +1,6 @@
 # Detections (By Virus Total) 
 
-| Provider | STATUS | TEXT |
+| Provider | Status | Text |
 |----------|----------|----------|
 | DeepInstinct | ❌ | MALICIOUS | 
 | Google | ❌ | Detected |
@@ -9,4 +9,4 @@
 | ESET-NOD32 | ❌ | A Variant Of MSIL/DllInject_AGen.JH Potentially Unsafe |
 | SecureAge | ❌ | Malicious |
 | Ikarus | ❌ | Trojan.Dropper |
-| the 62 others | ✅ | Undetected |
+| The 62 others | ✅ | Undetected |
