@@ -7,8 +7,8 @@
      - Start VAC ByPass
      - Wait for Steam window saying success & VAC Status ByPass [ON]
      - Then start your game
-  _ For non VAC Games:
-     - Same but no VAC ByPass
+_ For non VAC Games:
+  - Same but no VAC ByPass
 
 1. If you exerience any errors, try the following:
 - Disable windows defender or any anti-virus
