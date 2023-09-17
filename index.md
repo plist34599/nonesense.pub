@@ -2,9 +2,9 @@
 
 
 
-# 1. [Help](help.md)
+# 1. [Help](injector/help.md)
 # 2. [Features & Infos](injector/info.md)
-# 2. [Main Changelog (shared)](Changelog.md)
+# 3. [Main Changelog (shared)](Changelog.md)
 
 
 
